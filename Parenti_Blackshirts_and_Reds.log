@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.11)  26 JUL 2026 14:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.11)  29 JUL 2026 03:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -102,39 +102,47 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen159
+\enit@toks=\toks23
+\enit@inbox=\box54
+\enit@count@id=\count292
+\enitdp@description=\count293
 ) (/usr/share/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2025-12-06 v2.83 (Daniel Flipo)
-\c@DefaultLines=\count292
-\c@DefaultDepth=\count293
-\DefaultFindent=\dimen159
-\DefaultNindent=\dimen160
-\DefaultSlope=\dimen161
-\DiscardVskip=\dimen162
-\L@lbox=\box54
-\c@L@lines=\count294
-\c@L@depth=\count295
-\L@Pindent=\dimen163
-\L@Findent=\dimen164
-\L@Nindent=\dimen165
-\L@lraise=\dimen166
-\L@first=\dimen167
-\L@next=\dimen168
-\L@slope=\dimen169
-\L@height=\dimen170
-\L@novskip=\dimen171
-\L@target@ht=\dimen172
-\L@target@dp=\dimen173
-\L@target@tht=\dimen174
-\LettrineWidth=\dimen175
-\LettrineHeight=\dimen176
-\LettrineDepth=\dimen177
-\L@finalht=\dimen178
-\L@finaldp=\dimen179
+\c@DefaultLines=\count294
+\c@DefaultDepth=\count295
+\DefaultFindent=\dimen160
+\DefaultNindent=\dimen161
+\DefaultSlope=\dimen162
+\DiscardVskip=\dimen163
+\L@lbox=\box55
+\c@L@lines=\count296
+\c@L@depth=\count297
+\L@Pindent=\dimen164
+\L@Findent=\dimen165
+\L@Nindent=\dimen166
+\L@lraise=\dimen167
+\L@first=\dimen168
+\L@next=\dimen169
+\L@slope=\dimen170
+\L@height=\dimen171
+\L@novskip=\dimen172
+\L@target@ht=\dimen173
+\L@target@dp=\dimen174
+\L@target@tht=\dimen175
+\LettrineWidth=\dimen176
+\LettrineHeight=\dimen177
+\LettrineDepth=\dimen178
+\L@finalht=\dimen179
+\L@finaldp=\dimen180
 
 Loading lettrine.cfg
 (/usr/share/texmf-dist/tex/latex/lettrine/lettrine.cfg)
-\Lettrine@tweaks=\toks23
-\Llist@everypar=\toks24
+\Lettrine@tweaks=\toks24
+\Llist@everypar=\toks25
 ) (/usr/share/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
  (/usr/share/texmf-dist/tex/latex/base/ts1enc.def
@@ -269,44 +277,44 @@ LaTeX Encoding Info:    Redeclaring text symbol \texttimes (encoding TS1) on inp
 LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on input line 194.
 )) (/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-\f@nch@headwidth=\skip52
-\f@nch@offset@elh=\skip53
-\f@nch@offset@erh=\skip54
-\f@nch@offset@olh=\skip55
-\f@nch@offset@orh=\skip56
-\f@nch@offset@elf=\skip57
-\f@nch@offset@erf=\skip58
-\f@nch@offset@olf=\skip59
-\f@nch@offset@orf=\skip60
-\f@nch@height=\skip61
-\f@nch@footalignment=\skip62
-\f@nch@widthL=\skip63
-\f@nch@widthC=\skip64
-\f@nch@widthR=\skip65
-\@temptokenb=\toks25
+\f@nch@headwidth=\skip53
+\f@nch@offset@elh=\skip54
+\f@nch@offset@erh=\skip55
+\f@nch@offset@olh=\skip56
+\f@nch@offset@orh=\skip57
+\f@nch@offset@elf=\skip58
+\f@nch@offset@erf=\skip59
+\f@nch@offset@olf=\skip60
+\f@nch@offset@orf=\skip61
+\f@nch@height=\skip62
+\f@nch@footalignment=\skip63
+\f@nch@widthL=\skip64
+\f@nch@widthC=\skip65
+\f@nch@widthR=\skip66
+\@temptokenb=\toks26
 ) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count296
+\l__color_backend_stack_int=\count298
 ) (./Parenti_Blackshirts_and_Reds.aux
 Package babel Info: 'polish' activates 'polish' shorthands.
 (babel)             Reported on input line 5.
 )
 \openout1 = `Parenti_Blackshirts_and_Reds.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -339,4 +347,148 @@ LaTeX Font Info:    ... okay on input line 28.
 * \@twocolumnfalse
 * \@twosidetrue
 * \@mparswitchtrue
-* \@reversemarginfa
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 37.
+Package microtype Info: Applying patch `item' on input line 37.
+Package microtype Info: Applying patch `toc' on input line 37.
+Package microtype Info: Applying patch `eqnum' on input line 37.
+Package microtype Info: Applying patch `footnote' on input line 37.
+Package microtype Info: Applying patch `verbatim' on input line 37.
+LaTeX Info: Redefining \microtypesetup on input line 37.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+Package microtype Info: Patching command `\showhyphens'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 39.
+ [1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [2
+
+] (./Parenti_Blackshirts_and_Reds.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+ [1
+
+])
+\tf@toc=\write3
+\openout3 = `Parenti_Blackshirts_and_Reds.toc'.
+
+Package babel Info: 'polish' activates 'polish' shorthands.
+(babel)             Reported on input line 46.
+ [2]
+Underfull \vbox (badness 7576) has occurred while \output is active []
+
+ [3
+
+]
+Underfull \vbox (badness 3428) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 3428) has occurred while \output is active []
+
+ [5] [6]
+Rozdzia\l  1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 72.
+
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [7
+
+] [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \vbox (badness 3428) has occurred while \output is active []
+
+ [10] [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13] [14] [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16] [17] [18]
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+ [19] [20] [21] [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Overfull \hbox (8.08311pt too wide) in paragraph at lines 140--141
+\T1/cmr/m/n/12 (-20) Niektórzy au-to-rzy szcze-gól-nie uwy-dat-niaj¡ "ir-ra-cjo-nalne"cechy
+ []
+
+
+Overfull \hbox (19.25343pt too wide) in paragraph at lines 144--145
+\T1/cmr/m/n/12 (-20) j¡c¡"doktryn¡. Je-dy-nie w "okrut-nej walce"i "pod-boju"m¦»czy¹ni
+ []
+
+[24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25] [26]
+Overfull \hbox (14.65648pt too wide) in paragraph at lines 160--161
+[]\T1/cmr/m/n/12 (-20) Komentarze syna ujaw-niaj¡: "walka kla-sowa wy-gasa".Obawy
+ []
+
+[27] [28]
+Rozdzia\l  2.
+[29
+
+] [30
+
+]
+Rozdzia\l  3.
+[31] [32
+
+]
+Rozdzia\l  4.
+[33] [34
+
+]
+Rozdzia\l  5.
+[35] (./Parenti_Blackshirts_and_Reds.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 6031 strings out of 469480
+ 104459 string characters out of 5470003
+ 559115 words of memory out of 5000000
+ 34459 multiletter control sequences out of 15000+600000
+ 649492 words of font info for 174 fonts, out of 8000000 for 9000
+ 34 hyphenation exceptions out of 8191
+ 57i,8n,65p,2295b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Parenti_Blackshirts_and_Reds.pdf (37 pages, 262791 bytes).
+PDF statistics:
+ 172 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 43009 words of extra memory for PDF output out of 51595 (max. 10000000)
+
