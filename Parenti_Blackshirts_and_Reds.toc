@@ -6,16 +6,16 @@
 \contentsline {section}{Gratulacje dla Adolfa i Benito}{21}{}%
 \contentsline {section}{Racjonalne wykorzystanie irracjonalnej ideologii}{24}{}%
 \contentsline {section}{Patriarchat i pseudo-rewolucja}{28}{}%
-\contentsline {section}{Przyjaźni dla faszyzmu}{28}{}%
-\contentsline {chapter}{\numberline {2}Chwalmy teraz rewolucję}{29}{}%
-\contentsline {section}{Koszty kontrrewolucji}{29}{}%
-\contentsline {section}{Czyja przemoc?}{29}{}%
-\contentsline {section}{Wolny rynek dla nielicznych}{29}{}%
-\contentsline {section}{Wolność rewolucji}{29}{}%
-\contentsline {section}{Jaka miara bólu?}{29}{}%
-\contentsline {chapter}{\numberline {3}Lewicowy antykomunizm}{31}{}%
-\contentsline {section}{Ugięcie się przed ortodoksją}{31}{}%
-\contentsline {section}{Czysty socjalizm, a socjalizm w oblężeniu}{31}{}%
-\contentsline {section}{Decentralizacja, a przetrwanie}{31}{}%
-\contentsline {chapter}{\numberline {4}Komunizm w Krainie Czarów}{33}{}%
-\contentsline {chapter}{\numberline {5}Palce Stalina}{35}{}%
+\contentsline {section}{Przyjaźni dla faszyzmu}{34}{}%
+\contentsline {chapter}{\numberline {2}Chwalmy teraz rewolucję}{37}{}%
+\contentsline {section}{Koszty kontrrewolucji}{37}{}%
+\contentsline {section}{Czyja przemoc?}{37}{}%
+\contentsline {section}{Wolny rynek dla nielicznych}{37}{}%
+\contentsline {section}{Wolność rewolucji}{37}{}%
+\contentsline {section}{Jaka miara bólu?}{37}{}%
+\contentsline {chapter}{\numberline {3}Lewicowy antykomunizm}{39}{}%
+\contentsline {section}{Ugięcie się przed ortodoksją}{39}{}%
+\contentsline {section}{Czysty socjalizm, a socjalizm w oblężeniu}{39}{}%
+\contentsline {section}{Decentralizacja, a przetrwanie}{39}{}%
+\contentsline {chapter}{\numberline {4}Komunizm w Krainie Czarów}{41}{}%
+\contentsline {chapter}{\numberline {5}Palce Stalina}{43}{}%
