@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1785515189.65221 "Parenti_Blackshirts_and_Reds.tex" "Parenti_Blackshirts_and_Reds.pdf" "Parenti_Blackshirts_and_Reds" 1785515190.6163 0
+["pdflatex"] 1785522961.44319 "Parenti_Blackshirts_and_Reds.tex" "Parenti_Blackshirts_and_Reds.pdf" "Parenti_Blackshirts_and_Reds" 1785522962.1592 0
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1775415801 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1775415801 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1775415801 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -55,11 +55,11 @@
   "/usr/share/texmf-dist/tex/latex/microtype/microtype.sty" 1775415801 102845 043c56602c7d94c8a716319df1af5479 ""
   "/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg" 1775415801 22906 2122f73c0e7dc828f24240c2422dfe25 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1775415801 43569 fd570f2fa160877d211e859f687312ba ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1783802436 5391761 abf78329ed836cdeddb87472dffb693d ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1783802344 2340987 3db756fbaf232e7a0e772f8e82ee647b ""
-  "Parenti_Blackshirts_and_Reds.aux" 1785515190.52561 2601 7c15e1aa45356ff32596547126bdd7ec "pdflatex"
-  "Parenti_Blackshirts_and_Reds.tex" 1785515189.31263 55683 854858bea72de45f7119bb8457deb7ff ""
-  "Parenti_Blackshirts_and_Reds.toc" 1785515190.52661 1260 2d98d56be377a9b27b051ec2ae28fcd3 "pdflatex"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1784574938 5391761 abf78329ed836cdeddb87472dffb693d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1784574925 2340991 ab638d9e7eb521f3e1d249ae04021900 ""
+  "Parenti_Blackshirts_and_Reds.aux" 1785522962.08527 1063 db320378d5612fd8ed1d79be5b2e69c3 "pdflatex"
+  "Parenti_Blackshirts_and_Reds.tex" 1785522958.38155 55942 c5d1f68c657463c134ee6905f8e1a513 ""
+  "Parenti_Blackshirts_and_Reds.toc" 1785522962.08622 518 3fe8d40446c9c194b25787d149fec05a "pdflatex"
   (generated)
   "Parenti_Blackshirts_and_Reds.aux"
   "Parenti_Blackshirts_and_Reds.log"
