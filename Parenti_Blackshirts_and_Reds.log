@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.20)  31 JUL 2026 00:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.11)  31 JUL 2026 18:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -468,41 +468,58 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [32] [33] [34] [35] [36
+ [32] [33] [34] [35]
+Underfull \vbox (badness 2197) has occurred while \output is active []
 
-]
+ [36] [37]
+Overfull \hbox (1.67934pt too wide) in paragraph at lines 200--201
+[]\T1/cmr/m/n/12 (-20) Setki na-zi-stow-skich zbrod-nia-rzy wo-jen-nych zna-la-zªo schro-
+ []
+
+[38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+Underfull \vbox (badness 3428) has occurred while \output is active []
+
+ [41] [42]
 Rozdzia\l  2.
-[37] [38
+[43
+
+] [44
 
 ]
 Rozdzia\l  3.
-[39] [40
+[45] [46
 
 ]
 Rozdzia\l  4.
-[41] [42
+[47] [48
 
 ]
 Rozdzia\l  5.
-[43] (./Parenti_Blackshirts_and_Reds.aux)
+[49] (./Parenti_Blackshirts_and_Reds.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6037 strings out of 469480
- 104543 string characters out of 5470003
+ 6080 strings out of 469480
+ 105017 string characters out of 5470003
  559115 words of memory out of 5000000
- 34463 multiletter control sequences out of 15000+600000
- 649550 words of font info for 175 fonts, out of 8000000 for 9000
+ 34468 multiletter control sequences out of 15000+600000
+ 651014 words of font info for 194 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
- 57i,8n,65p,2295b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,65p,2670b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Parenti_Blackshirts_and_Reds.pdf (45 pages, 275046 bytes).
+Output written on Parenti_Blackshirts_and_Reds.pdf (51 pages, 292696 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
+ 216 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  43009 words of extra memory for PDF output out of 51595 (max. 10000000)
 

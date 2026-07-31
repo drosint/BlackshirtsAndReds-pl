@@ -7,15 +7,15 @@
 \contentsline {section}{Racjonalne wykorzystanie irracjonalnej ideologii}{24}{}%
 \contentsline {section}{Patriarchat i pseudo-rewolucja}{28}{}%
 \contentsline {section}{Przyjaźni dla faszyzmu}{34}{}%
-\contentsline {chapter}{\numberline {2}Chwalmy teraz rewolucję}{37}{}%
-\contentsline {section}{Koszty kontrrewolucji}{37}{}%
-\contentsline {section}{Czyja przemoc?}{37}{}%
-\contentsline {section}{Wolny rynek dla nielicznych}{37}{}%
-\contentsline {section}{Wolność rewolucji}{37}{}%
-\contentsline {section}{Jaka miara bólu?}{37}{}%
-\contentsline {chapter}{\numberline {3}Lewicowy antykomunizm}{39}{}%
-\contentsline {section}{Ugięcie się przed ortodoksją}{39}{}%
-\contentsline {section}{Czysty socjalizm, a socjalizm w oblężeniu}{39}{}%
-\contentsline {section}{Decentralizacja, a przetrwanie}{39}{}%
-\contentsline {chapter}{\numberline {4}Komunizm w Krainie Czarów}{41}{}%
-\contentsline {chapter}{\numberline {5}Palce Stalina}{43}{}%
+\contentsline {chapter}{\numberline {2}Chwalmy teraz rewolucję}{43}{}%
+\contentsline {section}{Koszty kontrrewolucji}{43}{}%
+\contentsline {section}{Czyja przemoc?}{43}{}%
+\contentsline {section}{Wolny rynek dla nielicznych}{43}{}%
+\contentsline {section}{Wolność rewolucji}{43}{}%
+\contentsline {section}{Jaka miara bólu?}{43}{}%
+\contentsline {chapter}{\numberline {3}Lewicowy antykomunizm}{45}{}%
+\contentsline {section}{Ugięcie się przed ortodoksją}{45}{}%
+\contentsline {section}{Czysty socjalizm, a socjalizm w oblężeniu}{45}{}%
+\contentsline {section}{Decentralizacja, a przetrwanie}{45}{}%
+\contentsline {chapter}{\numberline {4}Komunizm w Krainie Czarów}{47}{}%
+\contentsline {chapter}{\numberline {5}Palce Stalina}{49}{}%
