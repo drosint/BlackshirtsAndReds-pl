@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.20)  31 JUL 2026 20:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.20)  1 AUG 2026 22:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -487,15 +487,15 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6045 strings out of 469480
- 104481 string characters out of 5470003
+ 6049 strings out of 469480
+ 104523 string characters out of 5470003
  559118 words of memory out of 5000000
  34425 multiletter control sequences out of 15000+600000
- 651459 words of font info for 198 fonts, out of 8000000 for 9000
+ 651636 words of font info for 200 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
  57i,8n,65p,2670b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Parenti_Blackshirts_and_Reds.pdf (45 pages, 286164 bytes).
+Output written on Parenti_Blackshirts_and_Reds.pdf (45 pages, 286202 bytes).
 PDF statistics:
  197 PDF objects out of 1000 (max. 8388607)
  130 compressed objects within 2 object streams
