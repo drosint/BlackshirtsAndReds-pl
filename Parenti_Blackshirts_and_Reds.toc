@@ -7,3 +7,6 @@
 \contentsline {section}{Racjonalne wykorzystanie irracjonalnej ideologii}{24}{}%
 \contentsline {section}{Patriarchat i pseudorewolucja}{28}{}%
 \contentsline {section}{Przyjaźni dla faszyzmu}{34}{}%
+\contentsline {chapter}{\numberline {2}Chwalmy teraz rewolucję}{45}{}%
+\contentsline {section}{Koszty kontrrewolucji}{46}{}%
+\contentsline {section}{Czyja przemoc?}{50}{}%

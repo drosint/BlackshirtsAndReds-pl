@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.20)  1 AUG 2026 22:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.20)  2 AUG 2026 00:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -480,25 +480,38 @@ Underfull \vbox (badness 3428) has occurred while \output is active []
  [41]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42] [43] (./Parenti_Blackshirts_and_Reds.aux)
+ [42] [43] [44
+
+]
+Rozdzia\l  2.
+[45] [46] [47]
+Underfull \vbox (badness 2057) has occurred while \output is active []
+
+ [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50] [51] (./Parenti_Blackshirts_and_Reds.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6049 strings out of 469480
- 104523 string characters out of 5470003
+ 6073 strings out of 469480
+ 104813 string characters out of 5470003
  559118 words of memory out of 5000000
- 34425 multiletter control sequences out of 15000+600000
- 651636 words of font info for 200 fonts, out of 8000000 for 9000
+ 34437 multiletter control sequences out of 15000+600000
+ 652132 words of font info for 206 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
  57i,8n,65p,2670b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Parenti_Blackshirts_and_Reds.pdf (45 pages, 286202 bytes).
+Output written on Parenti_Blackshirts_and_Reds.pdf (53 pages, 299775 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
+ 222 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  43009 words of extra memory for PDF output out of 51595 (max. 10000000)
 
