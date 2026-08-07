@@ -1,12 +1,12 @@
 \babel@toc {polish}{}\relax 
-\contentsline {chapter}{Wstęp}{1}{}%
-\contentsline {chapter}{\numberline {1}Racjonalny faszyzm}{7}{}%
-\contentsline {section}{Plutokraci wybierają autokratów}{8}{}%
-\contentsline {section}{Kogo wspierali faszyści?}{15}{}%
-\contentsline {section}{Gratulacje dla Adolfa i Benito}{21}{}%
-\contentsline {section}{Racjonalne wykorzystanie irracjonalnej ideologii}{24}{}%
-\contentsline {section}{Patriarchat i pseudorewolucja}{28}{}%
-\contentsline {section}{Przyjaźni dla faszyzmu}{34}{}%
-\contentsline {chapter}{\numberline {2}Chwalmy teraz rewolucję}{45}{}%
-\contentsline {section}{Koszty kontrrewolucji}{46}{}%
-\contentsline {section}{Czyja przemoc?}{50}{}%
+\contentsline {chapter}{Wstęp}{iii}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}Racjonalny faszyzm}{1}{chapter.1}%
+\contentsline {section}{Plutokraci wybierają autokratów}{2}{section*.3}%
+\contentsline {section}{Kogo wspierali faszyści?}{8}{section*.4}%
+\contentsline {section}{Gratulacje dla Adolfa i Benito}{14}{section*.5}%
+\contentsline {section}{Racjonalne wykorzystanie irracjonalnej ideologii}{16}{section*.6}%
+\contentsline {section}{Patriarchat i pseudorewolucja}{20}{section*.7}%
+\contentsline {section}{Przyjaźni dla faszyzmu}{26}{section*.8}%
+\contentsline {chapter}{\numberline {2}Chwalmy teraz rewolucję}{35}{chapter.2}%
+\contentsline {section}{Koszty kontrrewolucji}{36}{section*.10}%
+\contentsline {section}{Roszczenia do władzy}{40}{section*.11}%
