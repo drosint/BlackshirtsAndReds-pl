@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.20)  5 AUG 2026 01:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.11)  9 SEP 2026 21:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -329,16 +329,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
-)
+ [3])
 \tf@toc=\write4
 \openout4 = `Parenti_Blackshirts_and_Reds.toc'.
 
- [3]
 Package babel Info: 'polish' activates 'polish' shorthands.
 (babel)             Reported on input line 67.
- [4
+ [4] [5
 
-] [5] [6] [7] [8]
+] [6] [7] [8]
 Rozdzia\l  1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 95.
@@ -376,48 +375,48 @@ Overfull \hbox (16.57661pt too wide) in paragraph at lines 262--263
 \T1/cmr/m/n/12 (-20) la¢ li-mity roz-woju so-cjo-eko-no-micz-nego in-nych pa«stw."Nie
  []
 
-[40] [41]
+[40] [41] [42] [43] [44] [45] [46]
+Overfull \hbox (1.4893pt too wide) in paragraph at lines 290--291
+[]\T1/cmr/m/n/12 (-20) Ameryka«skie pro-gramy za-gra-niczne uka-zuj¡ ko-lejny przy-
+ []
 
-./Parenti_Blackshirts_and_Reds.tex:268: LaTeX Error: \begin{enumerate} on input line 261 ended by \end{enumerat}.
+[47] [48] [49] [50] [51] [52
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.268 \end{enumerat}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+]
+Rozdzia\l  3.
 
-[42] [43] (./Parenti_Blackshirts_and_Reds.aux)
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 316.
+
+[53] [54
+
+]
+Rozdzia\l  4.
+[55] [56
+
+]
+Rozdzia\l  5.
+[57] (./Parenti_Blackshirts_and_Reds.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-Package rerunfilecheck Warning: File `Parenti_Blackshirts_and_Reds.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Parenti_Blackshirts_and_Reds.out':
-(rerunfilecheck)             Before: 67819F8FDC3254CA19C6C9313C7B8044;1961
-(rerunfilecheck)             After:  B0029D0BACB772523C8AB86BDC60D5CE;1997.
+Package rerunfilecheck Info: File `Parenti_Blackshirts_and_Reds.out' has not changed.
+(rerunfilecheck)             Checksum: 8BADC40E21ECDDCCDCC834C0F74569EC;3762.
  ) 
 Here is how much of TeX's memory you used:
- 12659 strings out of 469480
- 199706 string characters out of 5470003
- 660044 words of memory out of 5000000
- 40843 multiletter control sequences out of 15000+600000
- 650314 words of font info for 199 fonts, out of 8000000 for 9000
+ 12705 strings out of 469480
+ 200206 string characters out of 5470003
+ 660045 words of memory out of 5000000
+ 40862 multiletter control sequences out of 15000+600000
+ 650386 words of font info for 200 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
- 75i,8n,79p,2670b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,2670b,638s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Parenti_Blackshirts_and_Reds.pdf (51 pages, 356643 bytes).
+Output written on Parenti_Blackshirts_and_Reds.pdf (65 pages, 382659 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
- 331 compressed objects within 4 object streams
- 91 named destinations out of 1000 (max. 500000)
- 39001 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 527 PDF objects out of 1000 (max. 8388607)
+ 431 compressed objects within 5 object streams
+ 116 named destinations out of 1000 (max. 500000)
+ 39081 words of extra memory for PDF output out of 42996 (max. 10000000)
 
