@@ -1,5 +1,5 @@
 \babel@toc {polish}{}\relax 
-\contentsline {chapter}{Wstęp}{iv}{chapter*.1}%
+\contentsline {chapter}{Wstęp}{iii}{chapter*.1}%
 \contentsline {chapter}{\numberline {1}Racjonalny faszyzm}{1}{chapter.1}%
 \contentsline {section}{Plutokraci wybierają autokratów}{2}{section*.3}%
 \contentsline {section}{Kogo wspierali faszyści?}{8}{section*.4}%
@@ -12,11 +12,5 @@
 \contentsline {section}{Roszczenia do władzy}{40}{section*.11}%
 \contentsline {section}{Czyja przemoc?}{43}{Item.4}%
 \contentsline {section}{Wolny rynek dla nielicznych}{47}{section*.13}%
-\contentsline {section}{Wolność rewolucji}{48}{section*.14}%
-\contentsline {section}{Jaka miara bólu?}{51}{section*.15}%
-\contentsline {chapter}{\numberline {3}Lewicowy antykomunizm}{53}{chapter.3}%
-\contentsline {section}{Ugięcie się przed ortodoksją}{53}{section*.17}%
-\contentsline {section}{Czysty socjalizm, a socjalizm w oblężeniu}{53}{section*.18}%
-\contentsline {section}{Decentralizacja, a przetrwanie}{53}{section*.19}%
-\contentsline {chapter}{\numberline {4}Komunizm w Krainie Czarów}{55}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Palce Stalina}{57}{chapter.5}%
+\contentsline {section}{Wolność rewolucji}{52}{section*.14}%
+\contentsline {section}{Jaka miara bólu?}{56}{section*.15}%
