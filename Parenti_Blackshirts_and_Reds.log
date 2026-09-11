@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.11)  11 SEP 2026 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.7.20)  11 SEP 2026 18:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -371,17 +371,12 @@ Rozdzia\l  2.
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 243.
 
-[36] [37] [38] [39]
-Overfull \hbox (16.57661pt too wide) in paragraph at lines 262--263
-\T1/cmr/m/n/12 (-20) la¢ li-mity roz-woju so-cjo-eko-no-micz-nego in-nych pa«stw."Nie
- []
-
-[40] [41] [42] [43] [44] [45] [46]
+[36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
 Overfull \hbox (1.4893pt too wide) in paragraph at lines 290--291
 []\T1/cmr/m/n/12 (-20) Ameryka«skie pro-gramy za-gra-niczne uka-zuj¡ ko-lejny przy-
  []
 
-[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] (./Parenti_Blackshirts_and_Reds.aux)
+[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] (./Parenti_Blackshirts_and_Reds.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -390,18 +385,18 @@ Package rerunfilecheck Info: File `Parenti_Blackshirts_and_Reds.out' has not cha
 (rerunfilecheck)             Checksum: E1B41D9BB50B3B4886013864D86340C1;2612.
  ) 
 Here is how much of TeX's memory you used:
- 12734 strings out of 469480
- 200540 string characters out of 5470003
+ 12702 strings out of 469480
+ 200102 string characters out of 5470003
  660044 words of memory out of 5000000
- 40861 multiletter control sequences out of 15000+600000
- 653118 words of font info for 217 fonts, out of 8000000 for 9000
+ 40833 multiletter control sequences out of 15000+600000
+ 652751 words of font info for 214 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
- 75i,8n,79p,2670b,632s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,2671b,624s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Parenti_Blackshirts_and_Reds.pdf (68 pages, 439028 bytes).
+Output written on Parenti_Blackshirts_and_Reds.pdf (70 pages, 442503 bytes).
 PDF statistics:
- 522 PDF objects out of 1000 (max. 8388607)
- 419 compressed objects within 5 object streams
- 114 named destinations out of 1000 (max. 500000)
+ 531 PDF objects out of 1000 (max. 8388607)
+ 426 compressed objects within 5 object streams
+ 116 named destinations out of 1000 (max. 500000)
  43129 words of extra memory for PDF output out of 51595 (max. 10000000)
 

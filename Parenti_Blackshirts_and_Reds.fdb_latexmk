@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1789128236.23059 "Parenti_Blackshirts_and_Reds.tex" "Parenti_Blackshirts_and_Reds.pdf" "Parenti_Blackshirts_and_Reds" 1789128237.62747 0
+["pdflatex"] 1789144096.15118 "Parenti_Blackshirts_and_Reds.tex" "Parenti_Blackshirts_and_Reds.pdf" "Parenti_Blackshirts_and_Reds" 1789144097.40341 0
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1775415801 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1775415801 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1775415801 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -88,12 +88,12 @@
   "/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1775415801 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "/usr/share/texmf-dist/tex/latex/url/url.sty" 1775415801 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1775415801 43569 fd570f2fa160877d211e859f687312ba ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1783802436 5391761 abf78329ed836cdeddb87472dffb693d ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1783802344 2340987 3db756fbaf232e7a0e772f8e82ee647b ""
-  "Parenti_Blackshirts_and_Reds.aux" 1789128237.52028 2094 3a8345c360550c6faa1bbde7ee3a8c75 "pdflatex"
-  "Parenti_Blackshirts_and_Reds.out" 1789128237.52228 2612 e1b41d9bb50b3b4886013864d86340c1 "pdflatex"
-  "Parenti_Blackshirts_and_Reds.tex" 1789128234.67528 92851 baa0b5acb0165b05b806ec6f84b16e98 ""
-  "Parenti_Blackshirts_and_Reds.toc" 1789128237.52228 1056 d998cc6a473c6fdcd7430f37da16768b "pdflatex"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1784574938 5391761 abf78329ed836cdeddb87472dffb693d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1784574925 2340991 ab638d9e7eb521f3e1d249ae04021900 ""
+  "Parenti_Blackshirts_and_Reds.aux" 1789144097.2851 2094 155755d902dc0165a9301a80830b417c "pdflatex"
+  "Parenti_Blackshirts_and_Reds.out" 1789144097.28777 2612 e1b41d9bb50b3b4886013864d86340c1 "pdflatex"
+  "Parenti_Blackshirts_and_Reds.tex" 1789144094.40505 95786 1994e161b9446d0a9e9a6eb0b3a4f8dd ""
+  "Parenti_Blackshirts_and_Reds.toc" 1789144097.28777 1056 671fe06fee426b2bad20cf16a4dc727e "pdflatex"
   (generated)
   "Parenti_Blackshirts_and_Reds.aux"
   "Parenti_Blackshirts_and_Reds.log"
